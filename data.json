@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "WordPress for Beginners",
-        "instructor": "Allen Horne",
+        "instructor": "Barry Allen",
         "instructor_image": "https://zamanxd.github.io/images/barry.jpg",
         "price": 19.99,
         "image": "https://zamanxd.github.io/images/wp.jpg",
@@ -20,7 +20,7 @@
     {
         "id": 2,
         "name": "Learn Design Concept",
-        "instructor": "Allen Horne",
+        "instructor": "Barry Allen",
         "instructor_image": "https://zamanxd.github.io/images/barry.jpg",
         "price": 19.99,
         "image": "https://zamanxd.github.io/images/DESIGN.jpg",
@@ -38,7 +38,7 @@
     {
         "id": 3,
         "name": "Frontend Development",
-        "instructor": "Allen Horne",
+        "instructor": "Barry Allen",
         "instructor_image": "https://zamanxd.github.io/images/barry.jpg",
         "price": 19.99,
         "image": "https://zamanxd.github.io/images/frontend.jpg",
@@ -56,7 +56,7 @@
     {
         "id": 4,
         "name": "Learn React",
-        "instructor": "Allen Horne",
+        "instructor": "Barry Allen",
         "instructor_image": "https://zamanxd.github.io/images/barry.jpg",
         "price": 19.99,
         "image": "https://zamanxd.github.io/images/Learnhub.jpg",
@@ -74,7 +74,7 @@
     {
         "id": 5,
         "name": "Python Programming",
-        "instructor": "Allen Horne",
+        "instructor": "Barry Allen",
         "instructor_image": "https://zamanxd.github.io/images/barry.jpg",
         "price": 19.99,
         "image": "https://zamanxd.github.io/images/PYTHON.jpg",
@@ -107,8 +107,8 @@
         "totalProjects": 10,
         "category": "Backend Development"
     }
-    
-    
-    
+
+
+
     
 ]

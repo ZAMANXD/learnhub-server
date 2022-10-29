@@ -6,7 +6,7 @@ const port = process.env.PORT || 5000;
 app.use(cors());
 
 app.get('/', (req, res) => {
-  res.send('Hey! Brain Exercise Server Running');
+  res.send('Server Running Nonstop');
 });
 app.get('/courses', (req, res) => {
   res.send(courses);
